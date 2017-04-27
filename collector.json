@@ -12,6 +12,20 @@
 			"condition": 50,
 			"value": "___",
 			"picture": "italy"
+		},
+		{
+			"title": [
+				"United States",
+				"Chicago"
+			],
+			"Price": "$100",
+			"date": [
+				"March",
+				"2018"
+			],
+			"condition": 74,
+			"value": "City",
+			"picture": "chicago"
 		}
 	]
 }
