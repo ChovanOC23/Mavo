@@ -13,6 +13,20 @@
 			"condition": 81,
 			"value": "Beauty",
 			"picture": "italy"
+		},
+		{
+			"title": [
+				"United States of America",
+				"Chicago"
+			],
+			"Price": "100",
+			"date": [
+				"June",
+				"2017"
+			],
+			"condition": 50,
+			"value": "City",
+			"picture": "Chicago"
 		}
 	]
 }
