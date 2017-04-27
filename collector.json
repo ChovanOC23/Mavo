@@ -5,27 +5,14 @@
 				"Italy",
 				"Rome"
 			],
-			"Price": "___",
+			"Price": "1000",
 			"date": [
-				"___"
+				"July",
+				"2020"
 			],
-			"condition": 50,
-			"value": "___",
+			"condition": 81,
+			"value": "Beauty",
 			"picture": "italy"
-		},
-		{
-			"title": [
-				"United States",
-				"Chicago"
-			],
-			"Price": "$100",
-			"date": [
-				"March",
-				"2018"
-			],
-			"condition": 74,
-			"value": "City",
-			"picture": "chicago"
 		}
 	]
 }
