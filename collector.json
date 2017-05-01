@@ -16,6 +16,28 @@
 				"City"
 			],
 			"picture": "chicago"
+		},
+		{
+			"title": [
+				"Italy",
+				"Rome"
+			],
+			"value": [
+				"1000",
+				"Travel"
+			],
+			"date": [
+				"June",
+				"2017"
+			],
+			"condition": 81,
+			"picture": "italy"
+		},
+		{
+			"title": [],
+			"value": [],
+			"date": [],
+			"condition": 50
 		}
 	]
 }
