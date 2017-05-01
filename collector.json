@@ -2,20 +2,20 @@
 	"Places": [
 		{
 			"title": [
-				"Italy",
-				"Rome"
+				"America",
+				"Chicago"
 			],
 			"Price": "1000",
 			"date": [
 				"July",
-				"2020"
+				"___"
 			],
-			"condition": 81,
+			"condition": 63,
 			"value": [
-				"1000",
-				"Beauty"
+				"100",
+				"City"
 			],
-			"picture": "italy"
+			"picture": "chicago"
 		}
 	]
 }
